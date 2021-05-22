@@ -4,6 +4,8 @@ Easily move your Lua scripts between content/hlvr_addons and game/hlvr_addons, u
 ## How to?
   1. Place your batch script in Half-Life Alyx/content/hlvr_addons/<your addon>
   2. Right click and press edit below Open
-  3. Change these two lines to: `SET addonname=<your addon>` `SET scriptspath=<scriptsfoldername>`
+  3. Change these two lines to: 
+       - `SET addonname=<your addon>`
+       - `SET scriptspath=<scripts folder name>`
   4. Run your script! If all goes well it should show you which files it copied!
   5. Take a sip of coffee for your hard work done!
